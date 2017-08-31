@@ -21,11 +21,11 @@ if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
 var x=Math.floor((Math.random()*5)+ 1);
 var xxx=null;
-if(x=="1"){xxx="/2017/08/should-be-saved-for-salvation-of.html"}
-if(x=="2"){xxx="/2017/08/clever-skills-to-help-parents-meet.html"}
-if(x=="3"){xxx="/2017/08/six-ways-to-avoid-social-isolation.html"}
-if(x=="4"){xxx="/2017/08/create-list.html"}
-if(x=="5"){xxx="/2017/08/eye-exercises-increase-perception-of.html"}a_to_ve[i].href="http://www.safelinkconverter.me"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="1"){xxx="2017/08/should-be-saved-for-salvation-of.html"}
+if(x=="2"){xxx="2017/08/clever-skills-to-help-parents-meet.html"}
+if(x=="3"){xxx="2017/08/six-ways-to-avoid-social-isolation.html"}
+if(x=="4"){xxx="2017/08/create-list.html"}
+if(x=="5"){xxx="2017/08/eye-exercises-increase-perception-of.html"}a_to_ve[i].href="http://www.safelinkconverter.me/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
